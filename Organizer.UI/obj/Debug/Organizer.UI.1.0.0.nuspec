@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Organizer.UI</id>
+    <version>1.0.0</version>
+    <authors>Organizer.UI</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="AutoMapper" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="EntityFramework" version="6.4.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\lab2\Organizer.UI\bin\Debug\net6.0-windows\Organizer.UI.runtimeconfig.json" target="lib\net6.0-windows7.0\Organizer.UI.runtimeconfig.json" />
+    <file src="D:\lab2\Organizer.UI\bin\Debug\net6.0-windows\Organizer.UI.dll" target="lib\net6.0-windows7.0\Organizer.UI.dll" />
+  </files>
+</package>

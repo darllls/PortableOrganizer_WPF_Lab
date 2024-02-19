@@ -1,0 +1,20 @@
+﻿Organizer.UI
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\lab2\Organizer.UI\obj\Debug\net6.0-windows\
+Organizer.UI
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\lab2\Organizer.UI\App.xaml
+627971816
+11210888378
+311519956861
+227-677891496
+Views\CustomersUserControl.xaml;Views\MainWindow.xaml;Views\NewOrderUserControl.xaml;Views\OrdersUserControl.xaml;Views\SuppliersUserControl.xaml;Window2 .xaml;
+
+True
+
